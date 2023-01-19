@@ -1,6 +1,10 @@
 # People-Analytics-Project Employee Attrition & Performance
 In this repo you can find my Python script, which I developed as part of my training as a data analyst at CareerFoundry.
 
+### Key Question/Objectives: 
+* Predicting turnover 
+* Finding differences between the group that stayed or that left
+
 ### Overview of the whole module 
 * Sourcing Open Data
 * Exploring Relationships
@@ -10,9 +14,12 @@ In this repo you can find my Python script, which I developed as part of my trai
 * Sourcing & Analyzing Time Series Data
 * Creating Data Dashboards
 
+### Tools 
+
+Analysis has been conducted using Python and relevant libraries (pandas, numpy, os, matplotlib, scikit-learn, and seaborn), in Jupyter Notebook. 
 
 #### Data Sourcing: 
-The data set was found through the blog post “7 HR Data Sets for People Analytics” from AIHR (ACADEMY TO INNOVATE HR). The data set is available on Kaggle and was uploaded 6 years ago. Originally, the data set was published on IBM’s website but has been removed. 
+The data set "IBM HR Analytics Employee Attrition & Performance" was found through the blog post “7 HR Data Sets for People Analytics” from AIHR (ACADEMY TO INNOVATE HR). The data set is available on Kaggle and was uploaded 6 years ago. Originally, the data set was published on IBM’s website but has been removed. 
 
 #### Data Collection: 
 The data set is a fictional data set created by IBM data scientists. It is a bit difficult to practice “People Analytics” on real data sets. Due to privacy & security guidelines of companies there are hardly any real-world data sets available open source. 
