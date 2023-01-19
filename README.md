@@ -1,9 +1,22 @@
 # People-Analytics-Project Employee Attrition & Performance
 In this repo you can find my Python script, which I developed as part of my training as a data analyst at CareerFoundry.
 
+### Description: 
+When an employee resigns from an organization, its attrition rate increase and the organization has to face several challanges due employee attrition:
+
+_  High costs in terms of both money and time to train new employees
+- Loss of experienced employees
+- Impact in productivity
+- Impact profit
+
 ### Key Question/Objectives: 
-* Predicting turnover 
-* Finding differences between the group that stayed or that left
+What factors are contributing more to employee attrition?
+What type of measures should the company take in order to retain their employees?
+What business value does the model bring?
+Will the model save lots of money?
+Which business unit faces the attrition problem?
+
+
 
 ### Overview of the whole module 
 * Sourcing Open Data
