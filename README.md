@@ -4,7 +4,7 @@ In this repo you can find my Python script, which I developed as part of my trai
 ### Description: 
 When an employee resigns from an organization, its attrition rate increase and the organization has to face several challanges due employee attrition:
 
-_  High costs in terms of both money and time to train new employees
+- High costs in terms of both money and time to train new employees
 - Loss of experienced employees
 - Impact in productivity
 - Impact profit
