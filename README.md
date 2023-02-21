@@ -1,5 +1,5 @@
 # People-Analytics-Project Employee Attrition & Performance
-In this repo you can find my Python script, which I developed as part of my training as a data analyst at CareerFoundry as well as my Tableau Dashoard created for this achiviement: TABLEAU LINK
+In this repo you can find my Python script, which I developed as part of my training as a data analyst at CareerFoundry as well as my Tableau Dashoard created for this achiviement: https://public.tableau.com/views/Preventemployeeturnoverbyimprovingyouremployeeexperience/Preventemployeeturnover?:language=de-DE&publish=yes&:display_count=n&:origin=viz_share_link
 
 ### Description: 
 When an employee resigns from an organization, its attrition rate increase and the organization has to face several challanges due employee attrition:
